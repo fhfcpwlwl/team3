@@ -1,7 +1,7 @@
-# 홍길동
+# 김민상
 
 ## GitHub ID
-hong123
+Sarr49
 
 ## 팀 내 역할
 README 담당
